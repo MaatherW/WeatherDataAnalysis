@@ -1,6 +1,6 @@
 # Weather Data Analysis
 
-This project analyzes daily weather temperature. This dataset contains the daily weather data recorded in the capital location (based on lat, long values) of 194 countries in the world.
+This project undertakes an in-depth analysis of daily weather temperature data, leveraging advanced analytical tools such as Python and Tableau to derive valuable insights and draw conclusive findings through the creation of informative visualizations. 
 
 The shared Noteable work book link can be accessed [here](https://app.noteable.io/f/b7b624e7-1593-4df3-b4c9-3a7cd1909c28).
 
@@ -9,6 +9,8 @@ The shared Noteable work book link can be accessed [here](https://app.noteable.i
 -   Identifying Missing Values and Data Cleaning
 -   Converting Data Types
 -   Check For Duplicated Rows
+  
+This dataset contains the daily weather data recorded in the capital location (based on lat, long values) of 194 countries in the world.
 
 ---
 ![Map based on location broken down by Year.  Color shows changes in AVG temperatures.  Details are shown for Country. The view is filtered on Country, which keeps 185 of 194 countries due to lack of data in certain years.](https://i.imgur.com/qyKcQvr.png)
